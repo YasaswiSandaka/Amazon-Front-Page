@@ -309,3 +309,120 @@ ul a{
 .copyright{
     padding-top: -10px;
 }
+@media (min-width: 350px) and (max-width: 768px){
+    .first_bar {
+        display: inline-block;
+        background-color: black;
+        justify-content: space-evenly;
+        color: white;
+        height: max-content;
+        align-items: center;
+        width: 765px;
+    }
+    .search{
+        width: 760;
+        background-color: black;
+    }
+    .second_bar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5px;
+        background-color: #222f3d;
+        height: max-content;
+    }
+    .select option{
+        align-items: center;
+        text-justify: auto;
+    }
+    .box{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        width: 765px;
+    }
+    .footer1{
+        background-color: #222f3d;
+        height: max-content;
+        width: fit-content;
+    }
+ }
+  @media (min-width: 350px) and (max-width: 768px){
+    .first_bar {
+        display: inline-block;
+        background-color: black;
+        justify-content: space-evenly;
+        color: white;
+        height: max-content;
+        align-items: center;
+        width: 765px;
+    }
+    .search{
+        width: 760;
+        background-color: black;
+    }
+    .second_bar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5px;
+        background-color: #222f3d;
+        height: max-content;
+    }
+    .select option{
+        align-items: center;
+        text-justify: auto;
+    }
+    .box{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        width: 765px;
+    }
+    .footer1{
+        background-color: #222f3d;
+        height: max-content;
+        width: fit-content;
+    }
+ }
+  @media (min-width: 350px) and (max-width: 768px){
+    .first_bar {
+        display: inline-block;
+        background-color: black;
+        justify-content: space-evenly;
+        color: white;
+        height: max-content;
+        align-items: center;
+        width: 765px;
+    }
+    .search{
+        width: 760;
+        background-color: black;
+    }
+    .second_bar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5px;
+        background-color: #222f3d;
+        height: max-content;
+    }
+    .select option{
+        align-items: center;
+        text-justify: auto;
+    }
+    .box{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        width: 765px;
+    }
+    .footer1{
+        background-color: #222f3d;
+        height: max-content;
+        width: fit-content;
+    }
+ }
